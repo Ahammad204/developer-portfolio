@@ -204,7 +204,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created and maintained by **Mary Hardy**
+Created and maintained by **Kazi Ahammad Ullah**
 
 ---
 
